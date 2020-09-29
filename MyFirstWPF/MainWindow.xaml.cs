@@ -24,5 +24,7 @@ namespace MyFirstWPF
         {
             InitializeComponent();
         }
+
+        /* 대충 변경된 내용 이라는 뜻*/
     }
 }
